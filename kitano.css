@@ -122,3 +122,10 @@
 
 }
 
+.bigBox{
+    font-size: large;
+    background-color: brown;
+    color:white;
+    margin:10px;
+    background-size: 20px;
+}
